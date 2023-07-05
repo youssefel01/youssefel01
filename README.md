@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Creating rock-solid solutions is my addiction</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Next.js, tailwind**
+- 🌱 I’m currently taking **CS50's Web Programming with Python and JavaScript**
 
 - 💬 Ask me about **C/C++(OOP)**
 
