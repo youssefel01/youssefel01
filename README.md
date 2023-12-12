@@ -8,7 +8,7 @@ Aspiring software developer with a focus on web and mobile application developme
 
 * ✉️  You can contact me at [elyarchouhiy@gmail.com](mailto:elyarchouhiy@gmail.com)
 * 🧠  I'm learning CS50w: CS50's Web Programming with Python and JavaScript
-* 🚀  Looking for opportunities to lend my skills to valuable projects.
+* 🚀  Looking for opportunities to lend my skills into valuable projects.
 
 
 <h2>Skills</h2>
