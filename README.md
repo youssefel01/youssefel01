@@ -1,45 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Youssef EL Yarchouhi
-============================================================================================================================================
+# 🧑‍💻 Youssef EL Yarchouhi
 
-Software Developer
-------------------
+**`Software Developer = {Conception, Development, Testing, Deployment, Maintenance}`**
 
-Aspiring software developer with a focus on web and mobile application development. Proud recipient of the CS50x Harvard University certificate and currently enrolled in CS50w to expand my skills in web programming with Python and JavaScript. Pursuing a degree in DUT-Développeur d’Applications Web & Mobile. Experienced in Python, Django, Flask, HTML/CSS, JavaScript, and passionate about problem-solving. Eager to contribute to real projects and make a meaningful impact. Check out my portfolio to see examples of my work!
+Aspiring software developer specializing in web development. Currently a second-year student at Higher School of Technology, I'm actively seeking a web development internship. Proficient in a variety of programming languages and frameworks, including JavaScript, Python, PHP, React.js, Express.js, and Django, I bring a wealth of experience to the table.
 
-* ✉️  You can contact me at [elyarchouhiy@gmail.com](mailto:elyarchouhiy@gmail.com)
-* 🧠  I'm learning CS50w: CS50's Web Programming with Python and JavaScript
-* 🚀  Looking for opportunities to lend my skills into valuable projects.
+🎓 In addition to my academic pursuits, I've completed courses like CS50's Introduction to Computer Science and CS50's Web Programming with Python and JavaScript from Harvard University, where I gained valuable insights into the fundamentals of computer science and honed my skills in web programming.
 
+🔍 I'm passionate about technology and thrive on solving complex problems. With a solid foundation in software development and a keen eye for detail, I'm eager to contribute to innovative projects and make a meaningful impact.
 
-<h2>Skills</h2>
-<p>Here are some of my key skills that I bring to the table:</p>
-<strong>Programming Languages</strong>
-<br><br>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-</p>
-<strong>Database & Backend Development</strong>
-<br><br>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
-<strong>Front-end Development</strong>
-<br><br>
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>  
-</p>
-<strong>Version Control</strong>
-<br><br>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+💼 Currently seeking opportunities to apply my skills and knowledge in a real-world setting, I'm open to starting an internship in April. Feel free to check out my portfolio for examples of my work, and don't hesitate to reach out at elyarchouhiy@gmail.com. Let's connect and collaborate!
 
-<h2>Socials</h2>
+---
+
+### 🛠️ Languages and Tools</h2>
+#### Here are some of my key skills that I bring to the table:
+
+<p>
+<img align="left" alt"nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt"nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt"Expressjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt"Reactjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt"Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt"Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img align="left" alt"Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" alt"Php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt"Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt"Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt"Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt"MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt"SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+</p>    
+
+<br><br>    
 <b>Connect with me:</b><br><br>
 <p align="left"> <a href="https://www.github.com/youssefel01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;<a href="http://www.instagram.com/youssef.ely0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.linkedin.com/in/youssef-el-yarchouhi-6b3866232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp; <a href="https://www.youtube.com/@youssef_ELY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
@@ -47,7 +39,7 @@ Aspiring software developer with a focus on web and mobile application developme
 <b>My GitHub Stats</b>
 
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefel01&show_icons=true&locale=en&layout=compact" alt="youssefel01" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefel01&show_icons=true&locale=en&layout=compact" alt="youssefel01" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefel01&show_icons=true&locale=en" alt="youssefel01" /></p>
 </p>
