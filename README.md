@@ -1,6 +1,6 @@
 # 💡 Youssef EL Yarchouhi
 
-**`Software Developer = {Conception, Development, Testing, Deployment, Maintenance}`**
+**`Software Engineer = {Conception, Development, Testing, Deployment, Maintenance}`**
 
 I’m a software developer with 3 years of experience specializing in web and app development. I work with modern technologies to build scalable and optimized solutions.
 
